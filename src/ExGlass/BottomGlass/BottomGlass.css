@@ -1,0 +1,10 @@
+.bottom_glass {
+    outline: 1px solid black;
+    border-radius: 5px;
+}
+
+.bottom_glass-active {
+    outline: 3px solid red;
+    border-radius: 5px;
+    background-color: rgba(42, 42, 42, 0.541);
+}
